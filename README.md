@@ -32,9 +32,8 @@ The program generates random board configurations, evaluates conflicts using a h
 No external libraries required (uses only built-in modules).
 
 ---
-![Example Runs](screenshots/1.png)
-
-![Statistics](screenshots/2.png)
+![Example Runs](1.png)
+![Statistics](2.png)
 
 
 ## ▶️ How to Run
